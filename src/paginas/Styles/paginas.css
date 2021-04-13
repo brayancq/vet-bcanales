@@ -1,0 +1,50 @@
+.contenedorPrincipal {
+  height: 625px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  flex-direction: column;
+}
+
+.contenedorPrincipalListado,
+.contenedorPrincipal {
+  background-image: url("../.././imagenes/fondoInicio.jpg");
+}
+
+.botonPagina {
+  display: flex;
+  justify-content: center;
+  margin-top: 1rem;
+}
+
+.imagenInicio {
+  width: 300px;
+  height: 220px;
+  margin: -70px 0px 6px 21px;
+}
+
+/* pagina no existente */
+.contNotFound {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  height: 600px;
+}
+
+.imagenNotFound {
+  width: 300px;
+  height: 300px;
+}
+
+/* pagina listado */
+
+.listContenedor {
+  padding-top: 15px;
+}
+.botonListPagina {
+  display: flex;
+  justify-content: flex-end;
+  margin-top: 1rem;
+  margin-right: 1rem;
+}
