@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.65116690.chunk.css",
+    "main.js": "/static/js/main.a6c05b6d.chunk.js",
+    "main.js.map": "/static/js/main.a6c05b6d.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.142ff6de.js",
+    "runtime-main.js.map": "/static/js/runtime-main.142ff6de.js.map",
+    "static/css/2.ef9168ec.chunk.css": "/static/css/2.ef9168ec.chunk.css",
+    "static/js/2.fc71f6ad.chunk.js": "/static/js/2.fc71f6ad.chunk.js",
+    "static/js/2.fc71f6ad.chunk.js.map": "/static/js/2.fc71f6ad.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.ef9168ec.chunk.css.map": "/static/css/2.ef9168ec.chunk.css.map",
+    "static/css/main.65116690.chunk.css.map": "/static/css/main.65116690.chunk.css.map",
+    "static/js/2.fc71f6ad.chunk.js.LICENSE.txt": "/static/js/2.fc71f6ad.chunk.js.LICENSE.txt",
+    "static/media/dog-png.4854317c.webp": "/static/media/dog-png.4854317c.webp",
+    "static/media/iconoHuella.2527b704.png": "/static/media/iconoHuella.2527b704.png",
+    "static/media/logo.235d00e1.svg": "/static/media/logo.235d00e1.svg",
+    "static/media/mascota.e392b6b6.png": "/static/media/mascota.e392b6b6.png",
+    "static/media/notFound.fae5b226.svg": "/static/media/notFound.fae5b226.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.142ff6de.js",
+    "static/css/2.ef9168ec.chunk.css",
+    "static/js/2.fc71f6ad.chunk.js",
+    "static/css/main.65116690.chunk.css",
+    "static/js/main.a6c05b6d.chunk.js"
+  ]
+}
